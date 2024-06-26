@@ -1,11 +1,9 @@
-# Panduka Neluwala
-
 #### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
 
 ## Education
--Ph.D., The University of Tokyo, Tokyo, Japan (2018)
--MEng., The University of Tokyo, Tokyo, Japan (2015)
--BSc.Eng (Hons), University of Peradeniya, Peradeniya, Sri Lanka (2013)
+-Ph.D. | The University of Tokyo, Tokyo, Japan (2018)
+-MEng. | The University of Tokyo, Tokyo, Japan (2015)
+-BSc.Eng (Hons) | University of Peradeniya, Peradeniya, Sri Lanka (2013)
 
 ### Work Experience 
 **Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya
@@ -25,5 +23,5 @@
 
 5. Gimhan, P.G.S., Neluwala, P., Acierto, R.A. and Raghavan, S.V., 2022. Assessment of WRF microphysics and cumulus parameterizations in simulating heavy rainfall events over Badulu Oya catchment, Sri Lanka. Journal of Water and Climate Change, 13(12), pp.4213-4233
 
-[Google scholar] https://scholar.google.com/citations?user=1WywyewAAAAJ&hl
+[Google scholar] (https://scholar.google.com/citations?user=1WywyewAAAAJ&hl)
 
