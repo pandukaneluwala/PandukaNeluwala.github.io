@@ -6,7 +6,7 @@
 - BSc.Eng (Hons) | University of Peradeniya, Peradeniya, Sri Lanka (2013)
 
 ### Work Experience 
-**Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya
+** Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya
 
 ## Memberships
 - Member, International Water Association
