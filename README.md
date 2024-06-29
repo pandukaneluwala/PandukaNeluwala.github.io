@@ -1,4 +1,4 @@
-### Currently, I am working as a Senior Lecturer at the [Department of Civil Engineering](https://eng.pdn.ac.lk/civil/), [Faculty of Engineering](https://eng.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
+### Currently, I am working as a [Senior Lecturer](https://eng.pdn.ac.lk/civil/people/drPNeluwala.php) at the [Department of Civil Engineering](https://eng.pdn.ac.lk/civil/), [Faculty of Engineering](https://eng.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
 
 ### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
 
@@ -50,7 +50,6 @@
 
 ## Talks
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024
-
 
 ## Consultancies 
 - Slope Protection at Nillambe Hydropower plant intake
