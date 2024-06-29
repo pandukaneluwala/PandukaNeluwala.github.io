@@ -1,4 +1,4 @@
-### Currently, I am working as a [Senior Lecturer](https://eng.pdn.ac.lk/civil/people/drPNeluwala.php) at the [Department of Civil Engineering](https://eng.pdn.ac.lk/civil/), [Faculty of Engineering](https://eng.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
+### Currently, I am working as a [Senior Lecturer](https://eng.pdn.ac.lk/civil/people/drPNeluwala.php) at the [Department of Civil Engineering](https://eng.pdn.ac.lk/civil/), [Faculty of Engineering](https://eng.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/), [**More details about me->**](./aboutme.html)
 
 ### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
 
