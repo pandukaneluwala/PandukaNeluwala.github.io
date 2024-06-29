@@ -53,6 +53,13 @@
 ## Talks
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024
 
+## Teaching
+
+- [Fluid Mechanics I - CE202](https://eng.pdn.ac.lk/civil/undergraduate/nCE202.php)
+- [Engineering Hydrology - CE205](https://eng.pdn.ac.lk/civil/undergraduate/nCE205.php)
+- [Hydraulics - CE305](https://eng.pdn.ac.lk/civil/undergraduate/nCE305.php)
+- [Integrated River Basin Management - CE561](https://eng.pdn.ac.lk/civil/undergraduate/nCE561.php)
+  
 ## Consultancies 
 - Slope Protection at Nillambe Hydropower plant intake
 -	Flood Management Plan for Waggalmodara Canal- Replacement of Mihiripanna Pumping station -Galle District (2024)
