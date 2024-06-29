@@ -20,14 +20,13 @@
 - Green Associate Professional, Green Building Council Sri Lanka
 
 ## Publications
-1. [Peramuna, P.D.P.O., Neluwala, N.G.P.B., Wijesundara, K.K., Venkatesan, S., De Silva, S. and Dissanayake, P.B.R., 2024. Novel approach to the derivation of dam breach parameters in 2D hydrodynamic modeling of earthquake induced dam failures. Science of the total environment, 927, p.171505.](https://doi.org/10.1016/j.scitotenv.2024.171505)
-2. [Sadushan, S. and Neluwala, N.G.P.B., 2024. Application of GIS & RS in Rainwater Harvesting for an Arid Region. ENGINEER, 57(02), pp.69-80.](https://doi.org/10.4038/engineer.v57i2.7650)
-3. [Koswaththa, H.M.S.A., Ranasinghe, S.K., Ekanayake, I., Herath, D. and Neluwala, N.G.P.B., 2024. Downscaling Future Precipitation over Mi Oya River Basin using Artificial Neural Networks. ENGINEER, 57(02), pp.57-67.](https://doi.org/10.4038/engineer.v57i2.7649)
-4. [Abeyratne, W.M.L.K., Weerakoon, S.B., Neluwala, P. and Ratnaweera, H., 2023. Suspended solid removal efficiency of plate settlers and tube settlers analysed by CFD modelling. Water Science & Technology, 87(9), pp.2116-2127.](https://doi.org/10.2166/wst.2023.107)
-5. [Gimhan, P.G.S., Neluwala, P., Acierto, R.A. and Raghavan, S.V., 2022. Assessment of WRF microphysics and cumulus parameterizations in simulating heavy rainfall events over Badulu Oya catchment, Sri Lanka. Journal of Water and Climate Change, 13(12), pp.4213-4233](https://doi.org/10.2166/wcc.2022.371)
+1. Peramuna, P.D.P.O., Neluwala, N.G.P.B., Wijesundara, K.K., Venkatesan, S., De Silva, S. and Dissanayake, P.B.R., 2024. Novel approach to the derivation of dam breach parameters in 2D hydrodynamic modeling of earthquake induced dam failures. Science of the total environment, 927, p.171505 [https://doi.org/10.1016/j.scitotenv.2024.171505](https://doi.org/10.1016/j.scitotenv.2024.171505)
+2. Sadushan, S. and Neluwala, N.G.P.B., 2024. Application of GIS & RS in Rainwater Harvesting for an Arid Region. ENGINEER, 57(02), pp.69-80 [https://doi.org/10.4038/engineer.v57i2.7650](https://doi.org/10.4038/engineer.v57i2.7650)
+3. Koswaththa, H.M.S.A., Ranasinghe, S.K., Ekanayake, I., Herath, D. and Neluwala, N.G.P.B., 2024. Downscaling Future Precipitation over Mi Oya River Basin using Artificial Neural Networks. ENGINEER, 57(02), pp.57-67 [https://doi.org/10.4038/engineer.v57i2.7649](https://doi.org/10.4038/engineer.v57i2.7649)
+4. Abeyratne, W.M.L.K., Weerakoon, S.B., Neluwala, P. and Ratnaweera, H., 2023. Suspended solid removal efficiency of plate settlers and tube settlers analysed by CFD modelling. Water Science & Technology, 87(9), pp.2116-2127 [https://doi.org/10.2166/wst.2023.107](https://doi.org/10.2166/wst.2023.107)
+5. Gimhan, P.G.S., Neluwala, P., Acierto, R.A. and Raghavan, S.V., 2022. Assessment of WRF microphysics and cumulus parameterizations in simulating heavy rainfall events over Badulu Oya catchment, Sri Lanka. Journal of Water and Climate Change, 13(12), pp.4213-4233 [https://doi.org/10.2166/wcc.2022.371](https://doi.org/10.2166/wcc.2022.371)
 
 **[View more publications](./publications.html)**
-
 
 ## Awards
 - Awarded the "Furuichi Kimatake Prize" from The University of Tokyo for Outstanding Master Thesis
@@ -43,12 +42,25 @@
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
 
 ## Trainnings
-
 -	Knowledge Co-Creation Program (Country Focus) in Short-term Program of Innovative Asia: Kyushu University, Japan (Historical Environment Design) (February 2020)
 - Post Doc training offered by the Water and Society (WaSo) Project under a grant from the government of Norway for the NORHED project (June-July 2019)
 -	Third Workshop on Publicizing Research to the General Public-2018, International Affairs Office, University of Peradeniya (November 2018)
 -	Workshop on Developing Research Supervision, NORADWaSo-Asia Project of University of Peradeniya, Sri Lanka (November 2018)
-- Riken International School of Data Assimilation, Kobe, Japan, January 2018
+- Riken International School of Data Assimilation, Kobe, Japan (January 2018)
+
+## Talks
+-  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024
+
+
+## Consultancies 
+- Slope Protection at Nillambe Hydropower plant intake
+-	Flood Management Plan for Waggalmodara Canal- Replacement of Mihiripanna Pumping station -Galle District (2024)
+-	Comprehensive Analysis Report for Slope Stability and Risk Reduction Measures in Forebay Area at Nillambe Power Station (2023)
+-	Development of Real Time Flood Forecasting Model for Mi Oyo Basin (2021)
+-	Technical Evaluation on Feasibility of Revised Proposals on Proposed Intake Structure and Design of a Forebay Tank for Hemmathagma Water Supply Project (May 2021)
+-	Rehabilitation of Aniwatta Tunnel Aniwatta Tunnel Project (2020)
+-	Development of capacity and implementation of modelling for the preparation of data for a climate Atlas and Development of capacity and implementation of modelling for the preparation of 30 years of downscaled data for a Climate Atlas for Lao PDR  (January 2020 to September 2020)
+
 
 
 
