@@ -1,6 +1,6 @@
-#### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
+##Currently, I am working as a Senior Lecturer at the [Department of Civil Engineering](https://eng.pdn.ac.lk/civil/), [Faculty of Engineering](https://eng.pdn.ac.lk/), [University of Peradeniya](https://www.pdn.ac.lk/)
 
-[About Me](./aboutme.html)
+### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
 
 ## Education
 - Ph.D.   | The University of Tokyo, Tokyo, Japan (_2018_)
@@ -29,6 +29,7 @@
 
 5. [Gimhan, P.G.S., Neluwala, P., Acierto, R.A. and Raghavan, S.V., 2022. Assessment of WRF microphysics and cumulus parameterizations in simulating heavy rainfall events over Badulu Oya catchment, Sri Lanka. Journal of Water and Climate Change, 13(12), pp.4213-4233](https://doi.org/10.2166/wcc.2022.371)
 
+- [View more publications](./publications.html)
 - [Google Scholar](https://scholar.google.com/citations?user=1WywyewAAAAJ&hl)
 
 ## Awards
