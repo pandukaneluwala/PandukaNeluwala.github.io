@@ -5,18 +5,23 @@
 ## Education
 - Ph.D.   | The University of Tokyo, Tokyo, Japan (_2018_)
 - MEng.   | The University of Tokyo, Tokyo, Japan (_2015_)
-- BSc.Eng (Hons) | University of Peradeniya, Peradeniya, Sri Lanka (_2013_)
+- B.Sc. Eng (First Class Hons)  | University of Peradeniya, Peradeniya, Sri Lanka (_2012_)
 
 ## Appointments 
-**Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_September 2020 - Present_)**
+ - Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_September 2020 - Present_)
 
-**Lecturer (Probationary), Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_October 2018 - September 2022_)**
+ - Lecturer (Probationary), Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_October 2018 - September 2022_)
 
-**Associate Research Fellow, Institute of Industrial Science, The University of Tokyo**
+ - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (2021 to Present)
+
+ - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo
+
+ - Director, Sri Lanka Japan Study Centre, University of Peradeniya (_November 2022 - November 2023_)
 
 ## Memberships
 - Member, International Water Association
 - Associate Member, Institution of Engineers, Sri Lanka (AMIESL)
+- Green Associate Professional, Green Building Council Sri Lanka
 
 ## Publications
 1. [Peramuna, P.D.P.O., Neluwala, N.G.P.B., Wijesundara, K.K., Venkatesan, S., De Silva, S. and Dissanayake, P.B.R., 2024. Novel approach to the derivation of dam breach parameters in 2D hydrodynamic modeling of earthquake induced dam failures. Science of the total environment, 927, p.171505.](https://doi.org/10.1016/j.scitotenv.2024.171505)
@@ -39,4 +44,20 @@
 - Awarded the "Ceylon Development Engineering Prize for Best Performance in Civil Engineering" by University of Peradeniya at the Convocation holden in Peradeniya
 - Awarded the "J.B. Dissanayake Prize for Industrial Training" by University of Peradeniya at the Convocation holden in Peradeniya
 - Awarded the "Migara Ranathunga Trust Award" from Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
+
+## Grants
+- University Research Grants, University of Peradeniya Sri Lanka (2021)
+- Japanese Government (Monbukagakusho: MEXT) Scholarship for PhD students (October 2015 to October 2018)
+- Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
+
+## Trainnings
+
+-	Knowledge Co-Creation Program (Country Focus) in Short-term Program of Innovative Asia: Kyushu University, Japan (Historical Environment Design) (February 2020)
+- Post Doc training offered by the Water and Society (WaSo) Project under a grant from the government of Norway for the NORHED project (June-July 2019)
+-	Third Workshop on Publicizing Research to the General Public-2018, International Affairs Office, University of Peradeniya (November 2018)
+-	Workshop on Developing Research Supervision, NORADWaSo-Asia Project of University of Peradeniya, Sri Lanka (November 2018)
+- Riken International School of Data Assimilation, Kobe, Japan, January 2018
+
+
+
 
