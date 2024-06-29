@@ -2,7 +2,7 @@
 
 ### Research Interests: Climate Downscaling, Flood forecasting, Weather forecasting, Water Resources
 
-## [**More details about me->**](./aboutme.html)
+## [More details about me->](./aboutme.html)
 
 ## Education
 - Ph.D.   | The University of Tokyo, Tokyo, Japan (_2018_)
