@@ -5,6 +5,7 @@
 ### MScEng
 E.M.Y.C. Ekanayake, 2024, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
 P.L.L.N. Perera, 2024, Development of an Integrated Numerical Model Set-Up for Forecasting Compound Floods in Low-Lying Coastal Areas: A Case Study for Kelani River Basin in Sri Lanka ( PG/E/WE/2022/22) - Ongoing
+B.A.N. Jayalath, 2023, Analyzing the Water Quality and Quantity for Better Water Management Practices in a Tank Cascade System in Anuradhapura District, Sri Lanka (PG/E/WE/2019/10)
 S. Sadushan, 2023, Application of GIS & RS in Rain Water Harvesting Strategy: Case Study in Batticaloa District (PG/E/WE/2018/26)
 V.D. Athuraliya, 2023, Assessing the Impacts of Sea Level Rise on Salinity Intrusion in Kelani River, Sri Lanka (PG/E/WE/2020/01)
 M.M.M. Manas, 2022, Hydrodynamic Modelling of Puttalam Lagoon (PG/E/WE/2018/19)
