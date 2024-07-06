@@ -1,5 +1,5 @@
 ### PhD
-[P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
+- [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
 
 ### MScEng
 - E.M.Y.C. Ekanayake, 2024, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
