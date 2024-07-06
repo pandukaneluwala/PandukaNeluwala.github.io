@@ -12,7 +12,7 @@
 ## Appointments 
  - Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_September 2020 - Present_)
  - Lecturer (Probationary), Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_October 2018 - September 2022_)
- - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (2021 to Present)
+ - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (_2021 - Present_)
  - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo
  - Director, Sri Lanka Japan Study Centre, University of Peradeniya (_November 2022 - November 2023_)
 
