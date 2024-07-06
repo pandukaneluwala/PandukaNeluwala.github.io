@@ -62,7 +62,7 @@
 
 ## Supervision
 - **Ongoing** 1 PhD, 4 MScEng, 1 MEng
-- **Completed** 4 MSEng, 1 MEng, 2 PG Diploma
+- **Completed** 7 MSEng, 1 MEng, 2 PG Diploma
 
 [List of Theses 👉](./theses.html)
   
