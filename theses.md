@@ -9,7 +9,7 @@
 - V.D. Athuraliya, 2023, Assessing the Impacts of Sea Level Rise on Salinity Intrusion in Kelani River, Sri Lanka (PG/E/WE/2020/01)
 - M.M.M. Manas, 2022, Hydrodynamic Modelling of Puttalam Lagoon (PG/E/WE/2018/19)
 - B.M.A.S.M. Balasooriya, 2022, Effects of Climate Change on The Variation of Rainfall Characteristics in the Kalu Ganga Catchment of Sri Lanka (PG/WE/2018/02)
-[P.G.S. Gimhan](https://scholar.google.com/citations?user=q481TjwAAAAJ&hl=en&oi=ao), 2022, Forecasting Heavy Precipitation Events Over Badulu Oya Catchment Using the WRF-ARW Model (PG/E/WE/2020/08)
+- [P.G.S. Gimhan](https://scholar.google.com/citations?user=q481TjwAAAAJ&hl=en&oi=ao), 2022, Forecasting Heavy Precipitation Events Over Badulu Oya Catchment Using the WRF-ARW Model (PG/E/WE/2020/08)
 
 ### MEng
 - U.H.M.S.Silva, 2024,  Efficient Operation of Minipe Left Bank Canal Irrigation Scheme to Satisfy Irrigation Demands (PG/E/WE/2023/15) - Ongoing
