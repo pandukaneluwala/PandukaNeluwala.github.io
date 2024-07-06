@@ -51,7 +51,7 @@
 - Riken International School of Data Assimilation, Kobe, Japan (January 2018)
 
 ## Talks
--  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024
+-  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
 
 ## Teaching
 
@@ -61,8 +61,8 @@
 - [Integrated River Basin Management - CE561](https://eng.pdn.ac.lk/civil/undergraduate/nCE561.php)
 
 ## Supervision
-- **Ongoing** 1 PhD, 4 MScEng, 1 MEng
-- **Completed** 7 MSEng, 1 MEng, 2 PG Diploma
+- **Ongoing** 1 PhD, 3 MScEng, 1 MEng
+- **Completed** 5 MSEng, 1 MEng, 2 PG Diploma
 
 [List of Theses 👉](./theses.html)
   
