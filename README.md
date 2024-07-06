@@ -59,6 +59,11 @@
 - [Engineering Hydrology - CE205](https://eng.pdn.ac.lk/civil/undergraduate/nCE205.php)
 - [Hydraulics - CE305](https://eng.pdn.ac.lk/civil/undergraduate/nCE305.php)
 - [Integrated River Basin Management - CE561](https://eng.pdn.ac.lk/civil/undergraduate/nCE561.php)
+
+## Supervision
+**Ongoing** 1 PhD, 4 MScEng, 1 MEng
+**Completed** 4 MSEng, 1 MEng, 2 PG Diploma
+[List of Theses 👉](./Theses.html)
   
 ## Consultancies 
 - Slope Protection at Nillambe Hydropower plant intake
