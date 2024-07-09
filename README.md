@@ -53,6 +53,7 @@
 ## Talks
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
 ![drpandukaneluwalaYEF-SLNCOLD](/assets/img/drpandukaneluwalaYEF-SLNCOLD.png)
+<img src="https://pandukaneluwala.github.io/assets/img/drpandukaneluwalaYEF-SLNCOLD.png" width="200" >
 
 ## Teaching
 
