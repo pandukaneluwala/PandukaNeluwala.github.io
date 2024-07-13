@@ -15,5 +15,8 @@ The talk focused on my work on Dam breach modeling and the importance of that fo
     
 <img src="https://pandukaneluwala.github.io/assets/img/hecressimsrilanka.png" width="200" >
 
-  
+- Training on Hydrological Data Analysis, HEC-DSS & HEC-SSP software, Hydrology Division, Irrigation Department (_19-20/02/2021_)
+
+<img src="https://pandukaneluwala.github.io/assets/img/HECSSP_HEC-DSSVue_training.jpg" width="200" >
+
 [Home](./)
