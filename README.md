@@ -75,9 +75,8 @@
 [List of Theses 👉](./theses.html)
   
 ## Consultancies 
-- Slope Protection at Nillambe Hydropower plant intake
 -	Flood Management Plan for Waggalmodara Canal- Replacement of Mihiripanna Pumping station -Galle District (2024)
--	Comprehensive Analysis Report for Slope Stability and Risk Reduction Measures in Forebay Area at Nillambe Power Station (2023)
+-	Comprehensive Analysis for Slope Stability and Risk Reduction Measures in Forebay Area at Nillambe Power Station (2023)
 -	Development of Real Time Flood Forecasting Model for Mi Oyo Basin (2021)
 -	Technical Evaluation on Feasibility of Revised Proposals on Proposed Intake Structure and Design of a Forebay Tank for Hemmathagma Water Supply Project (May 2021)
 -	Rehabilitation of Aniwatta Tunnel Aniwatta Tunnel Project (2020)
