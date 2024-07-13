@@ -51,12 +51,13 @@
 - Riken International School of Data Assimilation, Kobe, Japan (January 2018)
 
 ## Talks/ Workshops conducted 
--  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
+-  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024) 
 <img src="https://pandukaneluwala.github.io/assets/img/drpandukaneluwalaYEF-SLNCOLD.png" width="200" >
 
 -  Workshop on HEC-RAS model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (June 2023)
 -  Workshop on Weather Research Forecasting (WRF) Model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (February 27/02/2020)
 -  Workshop on HecRecSim Model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya, (19/10/2023)
+  
 [More details ..](./talks_workshops.html)
 
 ## Teaching
