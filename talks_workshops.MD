@@ -1,0 +1,11 @@
+-  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
+The talk focused on my work on Dam breach modeling and the importance of that for the future
+<img src="https://pandukaneluwala.github.io/assets/img/drpandukaneluwalaYEF-SLNCOLD.png" width="200" >
+
+-  Workshop on HEC-RAS model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (__June 2023__)
+-  Workshop on Weather Research Forecasting (WRF) Model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (__27/02/2020__)
+-  Workshop on HecRecSim Model, for the Irrigation department,  Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (__23/11/2023__)
+<img src="https://pandukaneluwala.github.io/assets/img/hecressimsrilanka.png" width="200" >
+
+  
+[Home](./)
