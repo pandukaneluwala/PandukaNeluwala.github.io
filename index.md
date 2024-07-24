@@ -36,19 +36,22 @@
 - Sandaruwan and K.P.P. Pathirana for the Paper titled " Characteristics of Hydraulic Jumps over Rough Beds - An Experimental Study"
 - Awarded the "Ceylon Development Engineering Prize for Best Performance in Civil Engineering" by University of Peradeniya at the Convocation holden in Peradeniya
 - Awarded the "J.B. Dissanayake Prize for Industrial Training" by University of Peradeniya at the Convocation holden in Peradeniya
-- Awarded the "Migara Ranathunga Trust Award" from Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
+- Awarded the "Migara Ranathunga Trust Award" from the Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
 
 ## Grants
 - University Research Grants, University of Peradeniya Sri Lanka (2021)
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for PhD students (October 2015 to October 2018)
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
 
-## Trainnings
+## Trainings / Certificates 
+- Certificate on	Basic WRF Tutorial Training – Summer 2024 Organised by National Center for Atmospheric Research, USA
 -	Knowledge Co-Creation Program (Country Focus) in Short-term Program of Innovative Asia: Kyushu University, Japan (Historical Environment Design) (February 2020)
 - Post Doc training offered by the Water and Society (WaSo) Project under a grant from the government of Norway for the NORHED project (June-July 2019)
 -	Third Workshop on Publicizing Research to the General Public-2018, International Affairs Office, University of Peradeniya (November 2018)
 -	Workshop on Developing Research Supervision, NORADWaSo-Asia Project of University of Peradeniya, Sri Lanka (November 2018)
 - Riken International School of Data Assimilation, Kobe, Japan (January 2018)
+
+[Photos 👉 ](./trainings.html)
 
 ## Talks/ Workshops conducted 
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
