@@ -12,8 +12,10 @@
 ## Appointments 
  - Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_September 2020 - Present_)
  - Lecturer (Probationary), Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_October 2018 - September 2022_)
- - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (_2021 - Present_)
+ - Visiting Lecturer, Postgraduate Institute of Agriculture (PGIA),University of Peradeniya (_2024 - Present_)
+ - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (_2021 - 2023_)
  - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo
+ - Acting Director, International Relations Office (InRO), University of Peradeniya (_October 2024 - Present_)
  - Director, Sri Lanka Japan Study Centre, University of Peradeniya (_November 2022 - November 2023_)
 
 ## Memberships
@@ -39,7 +41,8 @@
 - Awarded the "Migara Ranathunga Trust Award" from the Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
 
 ## Grants
-- University Research Grants, University of Peradeniya Sri Lanka (2021)
+- Multidisciplinary Research Grants, University of Peradeniya, Sri Lanka GN526 (2024) (Co- Investigators)
+- University Research Grants, University of Peradeniya, Sri Lanka (2021) 
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for PhD students (October 2015 to October 2018)
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
 
@@ -72,8 +75,8 @@
 - [Integrated River Basin Management - CE561](https://eng.pdn.ac.lk/civil/undergraduate/nCE561.php)
 
 ## Supervision
-- **Ongoing** 1 PhD, 3 MScEng, 1 MEng
-- **Completed** 5 MSEng, 1 MEng, 2 PG Diploma
+- **Ongoing** 2 PhD, 1 Mphil, 5 MScEng, 1 MEng
+- **Completed** 7 MSEng, 1 MEng, 2 PG Diploma
 
 [List of Theses 👉](./theses.html)
   
