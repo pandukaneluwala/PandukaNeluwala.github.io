@@ -8,7 +8,7 @@
 - B.A.N. Jayalath, 2023, Analyzing the Water Quality and Quantity for Better Water Management Practices in a Tank Cascade System in Anuradhapura District, Sri Lanka (PG/E/WE/2019/10)
 - S. Sadushan, 2023, Application of GIS & RS in Rain Water Harvesting Strategy: Case Study in Batticaloa District (PG/E/WE/2018/26)
 - V.D. Athuraliya, 2023, Assessing the Impacts of Sea Level Rise on Salinity Intrusion in Kelani River, Sri Lanka (PG/E/WE/2020/01)
-- M.M.M. Manas, 2022, Hydrodynamic Modelling of Puttalam Lagoon (PG/E/WE/2018/19)
+- M.M.M. Manas, 2022, Hydrodynamic Modelling of Puttalam Lagoon (PG/E/WE/2018/19) 
 - B.M.A.S.M. Balasooriya, 2022, Effects of Climate Change on The Variation of Rainfall Characteristics in the Kalu Ganga Catchment of Sri Lanka (PG/WE/2018/02)
 - [P.G.S. Gimhan](https://scholar.google.com/citations?user=q481TjwAAAAJ&hl=en&oi=ao), 2022, Forecasting Heavy Precipitation Events Over Badulu Oya Catchment Using the WRF-ARW Model (PG/E/WE/2020/08)
 
