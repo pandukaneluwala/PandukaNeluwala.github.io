@@ -1,7 +1,9 @@
 ### PhD
-- [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
-- 
+- [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2024, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
+- G.A.T. Madushanka, 2025, - Ongoing 
 
+### MPhil
+- J.Ajanthiny, Impact on reservoirs in hydrological modeling (ongoing)
 ### MScEng
 - E.M.Y.C. Ekanayake, 2024, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
 - P.L.L.N. Perera, 2024, Development of an Integrated Numerical Model Set-Up for Forecasting Compound Floods in Low-Lying Coastal Areas: A Case Study for Kelani River Basin in Sri Lanka ( PG/E/WE/2022/22)
