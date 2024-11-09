@@ -41,8 +41,8 @@
 - Awarded the "Migara Ranathunga Trust Award" from the Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
 
 ## Grants
-- Multidisciplinary Research Grants, University of Peradeniya, Sri Lanka GN526 (2024) (Co- Investigators)
-- University Research Grants, University of Peradeniya, Sri Lanka (2021) 
+- Multidisciplinary Research Grants, University of Peradeniya, Sri Lanka (2024 GN526) (Co- Investigators)
+- University Research Grants, University of Peradeniya, Sri Lanka (2021 URG/2021/18/E) 
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for PhD students (October 2015 to October 2018)
 - Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
 
