@@ -1,6 +1,6 @@
 ### PhD
 - [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2024, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
-- G.A.T. Madushanka, 2025, - Ongoing 
+- G.A.T. Madushanka,  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing 
 
 ### MPhil
 - J.Ajanthiny, Impact on reservoirs in hydrological modeling (ongoing)
