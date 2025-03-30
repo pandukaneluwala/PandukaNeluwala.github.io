@@ -9,7 +9,8 @@
 - S. Himanujahn, 2025, Flood Frequency Analysis in the Kala Oya River Basin Using a Hybrid ANN-GAN Model with Explainable AI (PG/E/WE/2024/02	) - Ongoing
 - S. Baskaran, 2025, Advancing Precision in Weather Forecasting for Kandy (PG/E/WE/2024/10) - Ongoing
 - S.A.A.N. Abeywickrama, 2025, 	Multi-Reservoir Dam Breach Interactions (PG/E/WE/2024/09)- Ongoing
-- E.M.Y.C. Ekanayake, 2024, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
+- E.M.Y.C. Ekanayake, 2025, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
+- R.P.K.I.Somarathna, 2025, Mapping Suitable Zones for Groundwater Recharge in the Kelani River Basin Using Remote Sensing, GIS, and Analytical Hierarchy Process (PG/E/WE/2020/28)
 - P.L.L.N. Perera, 2024, Development of an Integrated Numerical Model Set-Up for Forecasting Compound Floods in Low-Lying Coastal Areas: A Case Study for Kelani River Basin in Sri Lanka ( PG/E/WE/2022/22)
 - B.A.N. Jayalath, 2023, Analyzing the Water Quality and Quantity for Better Water Management Practices in a Tank Cascade System in Anuradhapura District, Sri Lanka (PG/E/WE/2019/10)
 - S. Sadushan, 2023, Application of GIS & RS in Rain Water Harvesting Strategy: Case Study in Batticaloa District (PG/E/WE/2018/26)
