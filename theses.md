@@ -1,10 +1,14 @@
 ### PhD
-- [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2024, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) - Ongoing
-- G.A.T. Madushanka,  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing 
+- [G.A.T. Madushanka](https://orcid.org/0000-0003-1315-0334),  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing
+- [Supuni Nissanak] (https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques - Ongoing
+- [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2025, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) 
 
 ### MPhil
 - J.Ajanthiny, Impact on reservoirs in hydrological modeling (ongoing)
 ### MScEng
+- S. Himanujahn, 2025, Flood Frequency Analysis in the Kala Oya River Basin Using a Hybrid ANN-GAN Model with Explainable AI (PG/E/WE/2024/02	) - Ongoing
+- S. Baskaran, 2025, Advancing Precision in Weather Forecasting for Kandy (PG/E/WE/2024/10) - Ongoing
+- S.A.A.N. Abeywickrama, 2025, 	Multi-Reservoir Dam Breach Interactions (PG/E/WE/2024/09)- Ongoing
 - E.M.Y.C. Ekanayake, 2024, Impact of Climate Change on Hydropower Generation in Upper Mahaweli Basin (PG/E/WE/2023/03) - Ongoing
 - P.L.L.N. Perera, 2024, Development of an Integrated Numerical Model Set-Up for Forecasting Compound Floods in Low-Lying Coastal Areas: A Case Study for Kelani River Basin in Sri Lanka ( PG/E/WE/2022/22)
 - B.A.N. Jayalath, 2023, Analyzing the Water Quality and Quantity for Better Water Management Practices in a Tank Cascade System in Anuradhapura District, Sri Lanka (PG/E/WE/2019/10)
@@ -15,7 +19,8 @@
 - [P.G.S. Gimhan](https://scholar.google.com/citations?user=q481TjwAAAAJ&hl=en&oi=ao), 2022, Forecasting Heavy Precipitation Events Over Badulu Oya Catchment Using the WRF-ARW Model (PG/E/WE/2020/08)
 
 ### MEng
-- U.H.M.S.Silva, 2024,  Efficient Operation of Minipe Left Bank Canal Irrigation Scheme to Satisfy Irrigation Demands (PG/E/WE/2023/15) - Ongoing
+- G A M H K  Abeykoon, 2025,  Comparison of LSTM Neural Networks and Hydrological Models for Integrated Flood Forecasting in the Kelani River Basin	(PG/E/WE/2024/01) (On going)
+- U.H.M.S.Silva, 2024,  Efficient Operation of Minipe Left Bank Canal Irrigation Scheme to Satisfy Irrigation Demands (PG/E/WE/2023/15) 
 - D.A.R. Daranagama, 2024, Impact of Precipitation Over Compound Flooding in Kelani River Basin, Sri Lanka (PG/E/WE/2022/06)
 
 ### Postgraduate Diploma (Research)-PGDip
