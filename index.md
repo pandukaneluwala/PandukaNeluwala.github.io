@@ -15,7 +15,8 @@
  - Visiting Lecturer, Postgraduate Institute of Agriculture (PGIA),University of Peradeniya (_2024 - Present_)
  - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (_2021 - 2023_)
  - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo
- - Acting Director, International Relations Office (InRO), University of Peradeniya (_October 2024 - Present_)
+ - Part-time Warden, New Akbar Hall, University of Peradeniya (_2024 - 2025_) 
+ - Acting Director, International Relations Office (InRO), University of Peradeniya (_October 2024 - January 2025_)
  - Director, Sri Lanka Japan Study Centre, University of Peradeniya (_November 2022 - November 2023_)
 
 ## Memberships
