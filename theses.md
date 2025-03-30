@@ -1,6 +1,6 @@
 ### PhD
 - [G.A.T. Madushanka](https://orcid.org/0000-0003-1315-0334),  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing
-- [Supuni Nissanak] (https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques - Ongoing
+- [S.M.Nissanka](https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques - Ongoing
 - [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2025, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) 
 
 ### MPhil
