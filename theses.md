@@ -1,4 +1,4 @@
-Academic Supervision
+## Academic Supervision
 ### PhD
 - [G.A.T. Madushanka](https://orcid.org/0000-0003-1315-0334),  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing (Principle Supervisor)
 - [S.M.Nissanka](https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques - Ongoing (Co-Supervisor)
