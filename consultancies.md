@@ -4,7 +4,7 @@
 - **Year:** 2025 (Ongoing)  
 - **Client:** Ministry of Irrigation (through Infotech Ideas Pvt Limited)  
 - **Location:** Sri Lanka  
-- **Positions Held:** Deputy Team Leader and Irrigation Engineer  
+- **Positions Held:** Deputy Team Leader and Field Engineer  
 
 **Main Project Features:**  
 The objective of this assignment is to identify suitable locations for 150 automated river gauging stations and 150 automated rainfall stations across 27 river basins in Sri Lanka. This initiative aims to enhance flood forecasting capabilities by selecting optimal sites, integrating with existing stations, to provide reliable, real-time data.
