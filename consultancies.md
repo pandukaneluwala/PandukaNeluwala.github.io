@@ -1,5 +1,20 @@
 # Projects
 
+## Hydrological Assessment for Serendib Kurunegala Solar Power Project
+- **Year:** 2025 (Completed)
+- **Client:** Serendib Solar (Pvt) Ltd. (Through Earthworks Consultant & Construction (pvt) Ltd.)
+- **Location:** Hiripitiya, Kurunegala, Sri Lanka
+- **Positions Held:** Hydrological Consultant
+
+**Main Project Features:**
+The project involved a comprehensive hydrological assessment to evaluate flood risk for a proposed solar power facility near Deduru Oya in Hiripitiya, Kurunegala. The assessment ensured the site’s suitability by analyzing terrain, rainfall patterns, and river water levels, confirming no flood risk due to the site’s elevation and 60-meter riverbank buffer.
+
+**Main Responsibilities:**
+- Conducted flood risk analysis using annual maximum water level data from the Amunugama gauging station and rainfall data from the Kurunegala meteorological station (2019–2023).
+- Analyzed topographic and contour data from SRTM, Google Earth, and site surveys to confirm a 10-meter elevation difference between the river and project site.
+- Analyzed data from field visits and stakeholder interviews to verify no historical flooding at the site.
+- Prepared a detailed hydrological report with flood frequency analysis, concluding the site’s safety from flooding for the proposed solar power project.
+
 ## Consultancy Services for Identifying Locations for New Hydrological Stations
 - **Year:** 2025 (Ongoing)  
 - **Client:** Ministry of Irrigation (through Infotech Ideas Pvt Limited)  
