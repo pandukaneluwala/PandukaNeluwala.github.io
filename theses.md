@@ -1,7 +1,7 @@
 ## Academic Supervision
 ### PhD
 - [G.A.T. Madushanka](https://orcid.org/0000-0003-1315-0334),  Assessment of water availability in Mahaweli basin at Kaluganga reservoir and estimation of additional quantity of water for the diversion to water short areas (PG/PhD/19/10)  - Ongoing (Principle Supervisor)
-- [S.M.Nissanka](https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques - Ongoing (Co-Supervisor)
+- [S.M.Nissanka](https://www.researchgate.net/profile/Supuni-Nissanka), 2025, Rainfall-Integrated Traffic Flow Prediction Using Machine Learning Techniques (PG/PhD/25/09) - Ongoing (Co-Supervisor)
 - [P.D.P.O.Peramuna](https://scholar.google.com/citations?user=xKviqLwAAAAJ&hl=en&oi=sra), 2025, Assessment of cascade dam failures due to natural hazards (PG/PhD/21/07) (Principle Supervisor)
 
 ### MPhil
@@ -27,7 +27,7 @@
 - D.A.R. Daranagama, 2024, Impact of Precipitation Over Compound Flooding in Kelani River Basin, Sri Lanka (PG/E/WE/2022/06)
 
 ### Postgraduate Diploma (Research)-PGDip
-- [E.M.N.T. Edirisooriya](https://scholar.google.com/citations?user=ANCk4PsAAAAJ&hl=en&oi=ao), 2020, Two-Dimensional Flood Inundation Modeling in Lower Kelani Basin (PG/Dip/19/04)
+- [E.M.N.T. Edirisooriya](https://scholar.google.com/citations?user=ANCk4PsAAAAJ&hl=en&oi=ao), 2020, Two-Dimensional Flood Inundation Modeling in Lower Kelani Basin (PG/Dip/19/04) 
 - [W.M.L.K. Abeyratne](https://scholar.google.com/citations?hl=en&user=WZLtQ_8AAAAJ), 2020, Clarification Efficiency of Plate Settlers and Tube Settlers Analysed by CFD Modelling (PG/Dip/19/03) (Co-Supervisor)  
 
 [Home](./)
