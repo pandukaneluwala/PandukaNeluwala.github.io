@@ -1,3 +1,7 @@
+##Publications
+[View publications annualy](publications_annualy.html) 
+
+
 ## Full papers (Journals - Peer reviewed)
 - Madumalsha, C., Nawoda, I., Neluwala, P. and Revel, M., 2025. Estimation of Water Elevation Using ICESat-2 Satellite. Engineer: Journal of the Institution of Engineers, Sri Lanka, 58(1). [https://doi.org/10.4038/engineer.v58i1.7674](https://doi.org/10.4038/engineer.v58i1.7674)
 - Athuraliya, V.D., Neluwala, P. and Pathirana, K.P.P., 2025. Assessing the impacts of sea level rise on salinity intrusion in the Kelani River, Sri Lanka. Journal of Water and Climate Change, 16(2), pp.607-624. [https://doi.org/10.2166/wcc.2025.607](https://doi.org/10.2166/wcc.2025.607)
