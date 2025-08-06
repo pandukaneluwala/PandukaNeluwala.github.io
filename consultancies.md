@@ -1,7 +1,23 @@
 # Projects
 
+## Consultancy Services for Identifying Locations for New Hydrological Stations
+- **Year:** 2025 (Ongoing)  
+- **Client:** Ministry of Irrigation (through Infotech Ideas Pvt Limited)  
+- **Location:** Sri Lanka  
+- **Positions Held:** Deputy Team Leader and Irrigation Engineer  
+
+**Main Project Features:**  
+The objective of this assignment is to identify suitable locations for 150 automated river gauging stations and 150 automated rainfall stations across 27 river basins in Sri Lanka. This initiative aims to enhance flood forecasting capabilities by selecting optimal sites, integrating with existing stations, to provide reliable, real-time data.
+
+**Main Responsibilities:**  
+- Analyzed hydrological, topographic, and environmental data to ensure selected locations enhance flood forecasting accuracy and data reliability.  
+- Conducted comprehensive site assessments and field visits to identify optimal locations for gauging and rainfall stations based on hydrological features, existing station networks, and site suitability.  
+- Collaborated with stakeholders to align site selections with the Terms of Reference (ToR) and practical requirements for flood management and disaster response.  
+- Prepared detailed technical reports, site evaluation documentation, and recommendations for station placements.  
+- Provided technical oversight and leadership to the project team to ensure adherence to engineering standards and project goals.
+
 ## **Flood Management Plan for Waggalmodara Canal**
-- **Year:** 2024 (ongoing)  
+- **Year:** 2024 (Completed)  
 - **Client:** Ministry of Irrigation  
 - **Location:** Galle, Sri Lanka  
 
