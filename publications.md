@@ -1,3 +1,18 @@
+# Research
+I work on climate downscaling, flood forecasting, hydrodynamics, and water resources. 
+
+## Core Areas
+- Regional climate modeling & bias correction
+- Real-time flood forecasting & early warning
+- Hydraulic/hydrodynamic modelling (1D/2D)
+- Reservoir operation & river basin management
+- Dam-breach parameterization & risk analysis
+
+## Methods & Tools
+- WRF, HEC-HMS / HEC-RAS / HEC-ResSim / HEC-RTS 
+-  Delft3D-FLOW
+- Python, GIS/Remote Sensing workflows
+
 # Publications  
 [View publications annualy](publications_annualy.html) 
 
