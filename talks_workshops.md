@@ -1,3 +1,8 @@
+- **Plenary Speech:** *“Dam Safety and Preparedness for Critical Infrastructure under Climate Change”*  
+  *Regional Climate Change Conference (RCCC 2025)* — 14 October 2025
+
+<img src="https://pandukaneluwala.github.io/assets/img/rccc_panduka.jpg" width="300" alt="Plenary Speech at RCCC 2025">
+
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
 The talk focused on my work on Dam breach modeling and the importance of that for the future
     
