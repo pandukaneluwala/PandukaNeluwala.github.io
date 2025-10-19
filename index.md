@@ -69,14 +69,6 @@
 - **Workshop on Developing Research Supervision**, *NORAD WaSo-Asia Project, University of Peradeniya* — November 2018
 - **Riken International School of Data Assimilation**,  *Riken Advanced Institute for Computational Science, Kobe, Japan* — January 2018
 
-## Trainings / Certificates 
-- Certificate on	Basic WRF Tutorial Training – Summer 2024 Organised by National Center for Atmospheric Research, USA
--	Knowledge Co-Creation Program (Country Focus) in Short-term Program of Innovative Asia: Kyushu University, Japan (Historical Environment Design) (February 2020)
-- Post Doc training offered by the Water and Society (WaSo) Project under a grant from the government of Norway for the NORHED project (June-July 2019)
--	Third Workshop on Publicizing Research to the General Public-2018, International Affairs Office, University of Peradeniya (November 2018)
--	Workshop on Developing Research Supervision, NORADWaSo-Asia Project of University of Peradeniya, Sri Lanka (November 2018)
-- Riken International School of Data Assimilation, Kobe, Japan (January 2018)
-
 [Photos 👉 ](./trainings.html)
 
 ## 🎤 Talks & Invited Presentations
