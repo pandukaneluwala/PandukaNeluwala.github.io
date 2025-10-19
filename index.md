@@ -59,11 +59,6 @@
 - **Japanese Government (Monbukagakusho: MEXT) Scholarship – PhD Program**  *October 2015 – October 2018*
 - **Japanese Government (Monbukagakusho: MEXT) Scholarship – MSc Program**  *October 2013 – October 2015*
 
-## Grants
-- Multidisciplinary Research Grants, University of Peradeniya, Sri Lanka (2024 GN526) (Co- Investigators)
-- University Research Grants, University of Peradeniya, Sri Lanka (2021 URG/2021/18/E) 
-- Japanese Government (Monbukagakusho: MEXT) Scholarship for PhD students (October 2015 to October 2018)
-- Japanese Government (Monbukagakusho: MEXT) Scholarship for MSc students (October 2013 to October 2015)
 
 ## Trainings / Certificates 
 - Certificate on	Basic WRF Tutorial Training – Summer 2024 Organised by National Center for Atmospheric Research, USA
@@ -74,6 +69,18 @@
 - Riken International School of Data Assimilation, Kobe, Japan (January 2018)
 
 [Photos 👉 ](./trainings.html)
+
+## 🎤 Talks & Invited Presentations
+
+- **Plenary Speech:** *“Dam Safety and Preparedness for Critical Infrastructure under Climate Change”*  
+  *Regional Climate Change Conference (RCCC 2025)* — 14 October 2025
+  <img src="https://pandukaneluwala.github.io/assets/img/rccc_panduka.jpg" width="300" alt="Plenary Speech at RCCC 2025">
+- **Keynote Speech:** *Technical Conference – Young Engineers' Forum (YEF-SLNCOLD-2024)*  
+  *Sri Lanka National Committee on Large Dams (SLNCOLD)*
+- **Workshop on HEC-RAS Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — June 2023
+- **Workshop on HEC-ResSim Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — 19 October 2023
+- **Workshop on Weather Research and Forecasting (WRF) Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — 27 February 2020
+
 
 ## Talks/ Workshops conducted 
 -  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
