@@ -74,22 +74,14 @@
 
 - **Plenary Speech:** *“Dam Safety and Preparedness for Critical Infrastructure under Climate Change”*  
   *Regional Climate Change Conference (RCCC 2025)* — 14 October 2025
-  <img src="https://pandukaneluwala.github.io/assets/img/rccc_panduka.jpg" width="300" alt="Plenary Speech at RCCC 2025">
+
+<img src="https://pandukaneluwala.github.io/assets/img/rccc_panduka.jpg" width="300" alt="Plenary Speech at RCCC 2025">
+
 - **Keynote Speech:** *Technical Conference – Young Engineers' Forum (YEF-SLNCOLD-2024)*  
   *Sri Lanka National Committee on Large Dams (SLNCOLD)*
 - **Workshop on HEC-RAS Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — June 2023
 - **Workshop on HEC-ResSim Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — 19 October 2023
 - **Workshop on Weather Research and Forecasting (WRF) Model**, *Organized by Engineering Design Centre (EDC), Faculty of Engineering, University of Peradeniya* — 27 February 2020
-
-
-## Talks/ Workshops conducted 
--  Keynote Speech, Technical Conference - Young Engineers' Forum, Sri Lanka National Committee on Large Dams (YEF-SLNCOLD-2024)
-  
-<img src="https://pandukaneluwala.github.io/assets/img/drpandukaneluwalaYEF-SLNCOLD.png" width="200" >
-  
--  Workshop on HEC-RAS model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (June 2023)
--  Workshop on Weather Research Forecasting (WRF) Model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya (February 27/02/2020)
--  Workshop on HecRecSim Model, Organised by Engineering Design Centre, Faculty of Engineering, University of Peradeniya, (19/10/2023)
   
 [More details 👉 ](./talks_workshops.html)
 
@@ -102,7 +94,7 @@
 
 ## Supervision
 - **Ongoing** 2 PhD, 1 Mphil, 5 MScEng, 1 MEng
-- **Completed** 7 MSEng, 1 MEng, 2 PG Diploma
+- **Completed** 7 MSEng, 2 MEng, 2 PG Diploma
 
 [List of Theses 👉](./theses.html)
   
