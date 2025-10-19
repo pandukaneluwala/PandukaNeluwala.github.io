@@ -36,19 +36,19 @@
 ## 🏆 Awards & Recognitions
 
 - **URC Research Award 2024** — *University of Peradeniya*  
-  Awarded for **Outstanding Research Contribution** at the University of Peradeniya in 2024.
+  Awarded for Outstanding Research Contribution at the University of Peradeniya in 2024.
 - **Furuichi Kimatake Prize** — *The University of Tokyo*  
-  Awarded for an **Outstanding Master’s Thesis**.
+  Awarded for an Outstanding Master’s Thesis.
 - **S. D. & C. C. Award** — *Institution of Engineers, Sri Lanka (IESL)*  
   Best Paper by an Associate Member published in the *Engineer* Journal during the 2013/2014 session.  
-  *Paper:* “**Characteristics of Hydraulic Jumps over Rough Beds – An Experimental Study**”  
+  *Paper:* “Characteristics of Hydraulic Jumps over Rough Beds – An Experimental Study”  
   *Authors:* N. G. P. B. Neluwala, K. T. S. Karunanayake, K. B. G. M. Sandaruwan & K. P. P. Pathirana
 - **Ceylon Development Engineering Prize for Best Performance in Civil Engineering** — *University of Peradeniya*  
   Awarded at the Convocation held in Peradeniya.
 - **J. B. Dissanayake Prize for Industrial Training** — *University of Peradeniya*  
   Awarded at the Convocation held in Peradeniya.
 - **Migara Ranathunga Trust Award** — *Institution of Engineers, Sri Lanka (IESL)*  
-  Awarded for **Best Civil Engineering Undergraduate Training (2012)**.
+  Awarded for Best Civil Engineering Undergraduate Training (2012)/*.
 
 ## 🏛️ Research Grants
 
@@ -59,6 +59,15 @@
 - **Japanese Government (Monbukagakusho: MEXT) Scholarship – PhD Program**  *October 2015 – October 2018*
 - **Japanese Government (Monbukagakusho: MEXT) Scholarship – MSc Program**  *October 2013 – October 2015*
 
+## 🎓 Trainings / Certificates
+
+- **Capacity Building Program for Senior Student Counsellors**, *Staff Development Centre, University of Peradeniya* — 13th, 16th & 18th December 2024  
+- **Basic WRF Tutorial Training – Summer 2024**,  *Organized by the National Center for Atmospheric Research (NCAR), USA*
+- **Knowledge Co-Creation Program (Country Focus)**,  *Innovative Asia: Kyushu University, Japan (Historical Environment Design)* — February 2020
+- **Postdoctoral Training**,  *Water and Society (WaSo) Project, NORHED – Government of Norway* — June–July 2019
+- **Third Workshop on Publicizing Research to the General Public – 2018**,  *International Affairs Office, University of Peradeniya* — November 2018
+- **Workshop on Developing Research Supervision**, *NORAD WaSo-Asia Project, University of Peradeniya* — November 2018
+- **Riken International School of Data Assimilation**,  *Riken Advanced Institute for Computational Science, Kobe, Japan* — January 2018
 
 ## Trainings / Certificates 
 - Certificate on	Basic WRF Tutorial Training – Summer 2024 Organised by National Center for Atmospheric Research, USA
