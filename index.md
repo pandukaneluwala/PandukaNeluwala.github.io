@@ -50,15 +50,14 @@
 - **Migara Ranathunga Trust Award** — *Institution of Engineers, Sri Lanka (IESL)*  
   Awarded for **Best Civil Engineering Undergraduate Training (2012)**.
 
+## 🏛️ Research Grants
 
-## Awards
-- 
-- Awarded the "Furuichi Kimatake Prize" from The University of Tokyo for Outstanding Master Thesis
-- Awarded "The S D & C C Award" for the best Paper by an Associate Member published in the "Engineer" Journal of IESL during the Session 2013/2014 to N.G.P.B. Neluwala, K.T.S. Karunanayake, K.B.G.M. 
-- Sandaruwan and K.P.P. Pathirana for the Paper titled " Characteristics of Hydraulic Jumps over Rough Beds - An Experimental Study"
-- Awarded the "Ceylon Development Engineering Prize for Best Performance in Civil Engineering" by University of Peradeniya at the Convocation holden in Peradeniya
-- Awarded the "J.B. Dissanayake Prize for Industrial Training" by University of Peradeniya at the Convocation holden in Peradeniya
-- Awarded the "Migara Ranathunga Trust Award" from the Institute of Engineers Sri lanka (IESL) for best Civil Engineering Undergraduate Training in the year 2012
+- **National Research Council (NRC) of Sri Lanka – Grant No. IDF 24-106**  
+  *Comparative Analysis of Machine Learning and Numerical Weather Prediction Models for Enhanced Local Weather Forecasting and Water Resource Management in Sri Lanka*
+- **Multidisciplinary Research Grant (GN526)** — *University of Peradeniya, Sri Lanka (2024)*  *(Co-Investigator)*
+- **University Research Grant (URG/2021/18/E)** — *University of Peradeniya, Sri Lanka (2021)*
+- **Japanese Government (Monbukagakusho: MEXT) Scholarship – PhD Program**  *October 2015 – October 2018*
+- **Japanese Government (Monbukagakusho: MEXT) Scholarship – MSc Program**  *October 2013 – October 2015*
 
 ## Grants
 - Multidisciplinary Research Grants, University of Peradeniya, Sri Lanka (2024 GN526) (Co- Investigators)
