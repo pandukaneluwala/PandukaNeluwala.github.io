@@ -33,7 +33,26 @@
 
 **[View more publications](./publications.html)**
 
+## 🏆 Awards & Recognitions
+
+- **URC Research Award 2024** — *University of Peradeniya*  
+  Awarded for **Outstanding Research Contribution** at the University of Peradeniya in 2024.
+- **Furuichi Kimatake Prize** — *The University of Tokyo*  
+  Awarded for an **Outstanding Master’s Thesis**.
+- **S. D. & C. C. Award** — *Institution of Engineers, Sri Lanka (IESL)*  
+  Best Paper by an Associate Member published in the *Engineer* Journal during the 2013/2014 session.  
+  *Paper:* “**Characteristics of Hydraulic Jumps over Rough Beds – An Experimental Study**”  
+  *Authors:* N. G. P. B. Neluwala, K. T. S. Karunanayake, K. B. G. M. Sandaruwan & K. P. P. Pathirana
+- **Ceylon Development Engineering Prize for Best Performance in Civil Engineering** — *University of Peradeniya*  
+  Awarded at the Convocation held in Peradeniya.
+- **J. B. Dissanayake Prize for Industrial Training** — *University of Peradeniya*  
+  Awarded at the Convocation held in Peradeniya.
+- **Migara Ranathunga Trust Award** — *Institution of Engineers, Sri Lanka (IESL)*  
+  Awarded for **Best Civil Engineering Undergraduate Training (2012)**.
+
+
 ## Awards
+- 
 - Awarded the "Furuichi Kimatake Prize" from The University of Tokyo for Outstanding Master Thesis
 - Awarded "The S D & C C Award" for the best Paper by an Associate Member published in the "Engineer" Journal of IESL during the Session 2013/2014 to N.G.P.B. Neluwala, K.T.S. Karunanayake, K.B.G.M. 
 - Sandaruwan and K.P.P. Pathirana for the Paper titled " Characteristics of Hydraulic Jumps over Rough Beds - An Experimental Study"
