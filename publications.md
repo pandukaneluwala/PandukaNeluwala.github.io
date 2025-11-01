@@ -18,7 +18,7 @@ I work on climate downscaling, flood forecasting, hydrodynamics, and water resou
 
 
 ## Full papers (Journals - Peer reviewed)
--Balasooriya, M. and Neluwala, P., 2025. Statistical Approach to Selecting Global Circulation Models (GCMs)–A Study Based in the Kalu Ganga Catchment of Sri Lanka. Engineer: Journal of the Institution of Engineers, Sri Lanka, 58(3).[https://doi.org/10.4038/engineer.v58i3.7704](https://doi.org/10.4038/engineer.v58i3.7704)
+- Balasooriya, M. and Neluwala, P., 2025. Statistical Approach to Selecting Global Circulation Models (GCMs)–A Study Based in the Kalu Ganga Catchment of Sri Lanka. Engineer: Journal of the Institution of Engineers, Sri Lanka, 58(3).[https://doi.org/10.4038/engineer.v58i3.7704](https://doi.org/10.4038/engineer.v58i3.7704)
 - Madumalsha, C., Nawoda, I., Neluwala, P. and Revel, M., 2025. Estimation of Water Elevation Using ICESat-2 Satellite. Engineer: Journal of the Institution of Engineers, Sri Lanka, 58(1). [https://doi.org/10.4038/engineer.v58i1.7674](https://doi.org/10.4038/engineer.v58i1.7674)
 - Athuraliya, V.D., Neluwala, P. and Pathirana, K.P.P., 2025. Assessing the impacts of sea level rise on salinity intrusion in the Kelani River, Sri Lanka. Journal of Water and Climate Change, 16(2), pp.607-624. [https://doi.org/10.2166/wcc.2025.607](https://doi.org/10.2166/wcc.2025.607)
 - Peramuna, P.D.P.O., Neluwala, N.G.P.B., Wijesundara, K.K., De Silva, S., Venkatesan, S. and Dissanayake, P.B.R., 2024. Enhancing 2D hydrodynamic flood model predictions in data-scarce regions through integration of multiple terrain datasets. Journal of Hydrology, 648, p.132343 [https://doi.org/10.1016/j.jhydrol.2024.132343](https://doi.org/10.1016/j.jhydrol.2024.132343 ).
