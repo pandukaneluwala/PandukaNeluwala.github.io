@@ -48,7 +48,7 @@
 - **J. B. Dissanayake Prize for Industrial Training** — *University of Peradeniya*  
   Awarded at the Convocation held in Peradeniya.
 - **Migara Ranathunga Trust Award** — *Institution of Engineers, Sri Lanka (IESL)*  
-  Awarded for Best Civil Engineering Undergraduate Training (2012)/*.
+  Awarded for Best Civil Engineering Undergraduate Training (2012).
 
 ## 🏛️ Research Grants
 
