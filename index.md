@@ -54,8 +54,8 @@
 
 ## 🏛️ Research Grants
 
-- **India–Sri Lanka Workshop Grant 2024:** *Ensemble-Based Early Warning Systems for Flood Disaster Management* 
- *Indian Partner: Dr. Sanjaykumar M. Yadav, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India.*
+- **India–Sri Lanka Workshop Grant 2024** 
+  *Ensemble-Based Early Warning Systems for Flood Disaster Management, Indian Partner: Dr. Sanjaykumar M. Yadav, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India.*
 - **National Research Council (NRC) of Sri Lanka – Grant No. IDF 24-106**  
   *Comparative Analysis of Machine Learning and Numerical Weather Prediction Models for Enhanced Local Weather Forecasting and Water Resource Management in Sri Lanka*
 - **University Research Grant (URG/2025)** — *University of Peradeniya, Sri Lanka (2025)* *(Co-Investigator)*
