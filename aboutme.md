@@ -8,5 +8,6 @@ Dr. Panduka Neluwala is a Senior Lecturer in the Department of Civil Engineering
 
 - [Google scholar](https://scholar.google.com/citations?user=1WywyewAAAAJ)
 - [Linkedin](https://www.linkedin.com/in/panduka-neluwala)
+- [University Profile](https://eng.pdn.ac.lk/civileng/panduka-neluwala/)
 
 [Home](./)
