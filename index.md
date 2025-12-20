@@ -37,6 +37,8 @@
 
 - **URC Research Award 2024** — *University of Peradeniya*  
   Awarded for Outstanding Research Contribution at the University of Peradeniya in 2024.
+- **Certificates of Commendation ** — *Faculty of Engineeirng, University of Peradeniya*  
+  Awarded for achievements and excellence in research during 2022-23 at the Faculty Research Excellence Awards-2024
 - **Furuichi Kimatake Prize** — *The University of Tokyo*  
   Awarded for an Outstanding Master’s Thesis.
 - **S. D. & C. C. Award** — *Institution of Engineers, Sri Lanka (IESL)*  
@@ -52,8 +54,11 @@
 
 ## 🏛️ Research Grants
 
+- **India–Sri Lanka Workshop Grant 2024:** *Ensemble-Based Early Warning Systems for Flood Disaster Management* 
+ *Indian Partner: Dr. Sanjaykumar M. Yadav, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India.*
 - **National Research Council (NRC) of Sri Lanka – Grant No. IDF 24-106**  
   *Comparative Analysis of Machine Learning and Numerical Weather Prediction Models for Enhanced Local Weather Forecasting and Water Resource Management in Sri Lanka*
+- **University Research Grant (URG/2025)** — *University of Peradeniya, Sri Lanka (2025)* *(Co-Investigator)*
 - **Multidisciplinary Research Grant (GN526)** — *University of Peradeniya, Sri Lanka (2024)*  *(Co-Investigator)*
 - **University Research Grant (URG/2021/18/E)** — *University of Peradeniya, Sri Lanka (2021)*
 - **Japanese Government (Monbukagakusho: MEXT) Scholarship – PhD Program**  *October 2015 – October 2018*
