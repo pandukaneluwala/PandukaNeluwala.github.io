@@ -9,8 +9,7 @@ I work on climate downscaling, flood forecasting, hydrodynamics, and water resou
 - Dam-breach parameterization & risk analysis
 
 ### Methods & Tools
-- WRF, HEC-HMS / HEC-RAS / HEC-ResSim / HEC-RTS 
--  Delft3D-FLOW
+- WRF, HEC-HMS / HEC-RAS / HEC-ResSim / HEC-RTS / Machine Learning
 - Python, GIS/Remote Sensing workflows
 
 # Publications  
