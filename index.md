@@ -11,10 +11,10 @@
 
 ## Appointments 
  - Senior Lecturer Gr II, Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_September 2020 - Present_)
+ - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo (_2020 - Present_)
  - Lecturer (Probationary), Department of Civil Engineering, Faculty of Engineering, University of Peradeniya (_October 2018 - September 2022_)
  - Visiting Lecturer, Postgraduate Institute of Agriculture (PGIA),University of Peradeniya (_2024 - Present_)
  - Visiting Lecturer, Department of Civil Engineering, Faculty of Engineering, Open University of Sri Lanka, Sri Lanka (_2021 - 2023_)
- - Associate Research Fellow, Institute of Industrial Science, The University of Tokyo
  - Part-time Warden, New Akbar Hall, University of Peradeniya (_2024 - 2025_) 
  - Acting Director, International Relations Office (InRO), University of Peradeniya (_October 2024 - January 2025_)
  - Director, Sri Lanka Japan Study Centre, University of Peradeniya (_November 2022 - November 2023_)
@@ -37,7 +37,7 @@
 
 - **URC Research Award 2024** — *University of Peradeniya*  
   Awarded for Outstanding Research Contribution at the University of Peradeniya in 2024.
-- **Certificates of Commendation ** — *Faculty of Engineeirng, University of Peradeniya*  
+- **Certificates of Commendation** — *Faculty of Engineeirng, University of Peradeniya*  
   Awarded for achievements and excellence in research during 2022-23 at the Faculty Research Excellence Awards-2024
 - **Furuichi Kimatake Prize** — *The University of Tokyo*  
   Awarded for an Outstanding Master’s Thesis.
@@ -54,8 +54,8 @@
 
 ## 🏛️ Research Grants
 
-- **India–Sri Lanka Workshop Grant 2024** 
-  *Ensemble-Based Early Warning Systems for Flood Disaster Management, Indian Partner: Dr. Sanjaykumar M. Yadav, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat, India.*
+- **India–Sri Lanka Workshop Grant 2024**   
+  *Ensemble-Based Early Warning Systems for Flood Disaster Management*, Indian Partner: Dr. Sanjaykumar M. Yadav, Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, Gujarat.
 - **National Research Council (NRC) of Sri Lanka – Grant No. IDF 24-106**  
   *Comparative Analysis of Machine Learning and Numerical Weather Prediction Models for Enhanced Local Weather Forecasting and Water Resource Management in Sri Lanka*
 - **University Research Grant (URG/2025)** — *University of Peradeniya, Sri Lanka (2025)* *(Co-Investigator)*
